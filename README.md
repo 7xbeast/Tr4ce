@@ -21,7 +21,7 @@ To install Tr4ce, you’ll need Python 3 and the following dependencies:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Tr4ce.git
+git clone https://github.com/7xbeast/Tr4ce.git
 
 cd Tr4ce
 
