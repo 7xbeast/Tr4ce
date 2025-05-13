@@ -31,7 +31,7 @@ pip install pynput colorama
 
 Run the keylogger:
 
-python keylogger.py
+python3 keylogger.py
 
 
 Use Cases:
